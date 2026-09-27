@@ -42,8 +42,8 @@ By default, the internal database engine connection routing via `project/include
 
 ## Preloaded Demo Profile
 The integrated SQL database setup script includes an existing profile designed for structural testing:
-- **Username / Email:** `demo@example.com`
-- **Account Password:** `password123`
+- **Username / Email:** `ent2023059@tec.rjt.ac.lk`
+- **Account Password:** `12345678`
 *Alternatively, you can generate an independent profile directly using the built-in Registration interface.*
 
 ## Project Directory Tree
